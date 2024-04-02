@@ -1,6 +1,6 @@
 # AI_BOT
 
-We create this AI_BOT is base on  ** Open AI**   with  **LLM model** . we can use other AI model but we use Open AI for better accuracy.
+We create this AI_BOT is base on Open AI with  **LLM model** . we can use other AI model but we use Open AI for better accuracy.
 
 **Introduction**
 
