@@ -1,5 +1,7 @@
 # AI_BOT
 
+We create this AI_BOT is base on ** Open AI**  with  **LLM model** . we can use other AI model but we use Open AI for better accuracy.
+
 **Introduction**
 
 It has to take in voice command and in the back ground the subject should be about Indian states, culture etc 
@@ -65,4 +67,11 @@ Alternatively, you can create a .env file in the root of your project and add th
 With the environment variables set, you're ready to run the application. Execute the following command:
 
 `python run.py`
+
+
+After run this  'python run.py` server then url is  http://127.0.0.1:5001 then you show this screen as below.
+
+
+
+
 
