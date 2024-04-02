@@ -1,5 +1,5 @@
 # AI_BOT
- 
+
 **Introduction**
 
 It has to take in voice command and in the back ground the subject should be about Indian states, culture etc 
@@ -37,24 +37,33 @@ To run the Flask application correctly, you need to set several environment vari
 On Windows (Command Prompt):
 
 `set FLASK_APP=your_application_entry_file.py
+
 set FLASK_ENV=development
+
 set FLASK_RUN_PORT=5001
+
 set OPENAI_API_KEY=your_openai_api_key_here
 `
 
 On macOS/Linux:
 
 `export FLASK_APP=your_application_entry_file.py
+
 export FLASK_ENV=development
+
 export FLASK_RUN_PORT=5001
+
 export OPENAI_API_KEY=your_openai_api_key_here
 `
 
 Alternatively, you can create a .env file in the root of your project and add the following lines (replace placeholders with your actual data):
 
 `FLASK_APP=your_application_entry_file.py
+
 FLASK_ENV=development
+
 FLASK_RUN_PORT=5001
+
 OPENAI_API_KEY=your_openai_api_key_here
 `
 
@@ -63,4 +72,7 @@ OPENAI_API_KEY=your_openai_api_key_here
 With the environment variables set, you're ready to run the application. Execute the following command:
 
 `flask run --port 5001`
+
+
+
 
